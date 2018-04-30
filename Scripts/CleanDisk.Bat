@@ -1,0 +1,1 @@
+diskpart /s C:\USB\CleanDisk.txt
